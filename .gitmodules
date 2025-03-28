@@ -1,0 +1,6 @@
+[submodule "Plugins/HTTPBackend"]
+	path = Plugins/HTTPBackend
+	url = https://github.com/wpatruno/UE5-HTTPBackend
+[submodule "Plugins/UnrealSignalR"]
+	path = Plugins/UnrealSignalR
+	url = https://github.com/wpatruno/Unreal-SignalR
