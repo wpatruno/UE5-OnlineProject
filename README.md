@@ -9,14 +9,14 @@ It is developed in C++ for core systems and on Blueprint for implementations tha
 **This project is a work in progress and is not suitable for production**
 
 ### Dependency
-This project depend on my own [backend server](https://github.com/wpatruno/BackendAspNet) made on ASP.NET HTTPS and SignalR.
+This project depend on my own [backend server](https://github.com/wpatruno/ASP.NET-Game-Backend) made on ASP.NET HTTPS and SignalR.
 
 Connection are made with HTTPS request (GET, POST etc...) and SignalR (Websocket) when needed.
 
 
 Plugins used:
-- [SignalR](https://github.com/wpatruno/Unreal-SignalR) : My fork of FrozenStormInteractive/Unreal-SignalR 
-- [UE5-HTTPBackend](https://github.com/wpatruno/UE5-HTTPBackend) : my plugin I made to easly use HTTP request in C++ and BP
+- [SignalR](https://github.com/wpatruno/Unreal-SignalR) : Fork of FrozenStormInteractive/Unreal-SignalR with minor changes for my own use
+- [UE5-HTTPBackend](https://github.com/wpatruno/UE5-HTTPBackend) : Plugin I made to easly use HTTP request in C++ and BP
 
 To use the project demo, in ContentBrowser do Add>FeatureOrContentPack
 Add StarterContent and ThirdPersonCharacter
