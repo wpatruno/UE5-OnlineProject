@@ -36,3 +36,7 @@ Add StarterContent and ThirdPersonCharacter
 - Add and show friends
 - Message friends
 - Group friends for matchmaking
+
+## Media
+
+![Hosting](./Media/hosting.webm)
