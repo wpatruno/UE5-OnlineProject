@@ -39,4 +39,4 @@ Add StarterContent and ThirdPersonCharacter
 
 ## Media
 
-![Hosting](./Media/hosting.webm)
+[![YouTube](http://i.ytimg.com/vi/3AY7QOilVSI/hqdefault.jpg)](https://www.youtube.com/watch?v=3AY7QOilVSI)
