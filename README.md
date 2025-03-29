@@ -39,4 +39,14 @@ Add StarterContent and ThirdPersonCharacter
 
 ## Media
 
+### Matchmaking Demo
+
 [![YouTube](http://i.ytimg.com/vi/3AY7QOilVSI/hqdefault.jpg)](https://www.youtube.com/watch?v=3AY7QOilVSI)
+
+### Server hosting demo
+
+[![YouTube](http://i.ytimg.com/vi/pt89CBAnkLo/hqdefault.jpg)](https://www.youtube.com/watch?v=pt89CBAnkLo)
+
+### Microtransaction and chest opening
+
+[![YouTube](http://i.ytimg.com/vi/XapdRMQ27Ro/hqdefault.jpg)](https://www.youtube.com/watch?v=XapdRMQ27Ro)
